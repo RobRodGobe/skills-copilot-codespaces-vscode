@@ -1,4 +1,4 @@
-// Create web server for comment
+// Create web server
 //==========================================
 
 // Import module
